@@ -4,7 +4,6 @@
 #include "alarm_manager.h"
 
 int main() {
-    std::cout << "Check cmake \n" << std::endl;
     std::cout << "Alarm Management System: High, Medium and Low \n" << std::endl;
     std::cout << "High Priority Alarm: Press 'H' to activate/deactivate the alarm" << std::endl;
     std::cout << "Medium Priority Alarm: Press 'M' to activate/deactivate the alarm" << std::endl;
