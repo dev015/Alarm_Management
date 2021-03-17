@@ -18,6 +18,9 @@ The application output:
 * One character represents 250ms.
 * 'X' represents beep, and '_' represents no beep.
 
+Unit Testing:
+* Google Test is used for unit testing.
+
 <!--
 ### Built With
 
@@ -79,13 +82,13 @@ ${Alarm_Management}
 * Run the Project:
 
    ```sh
-   ./src/ExampleProject_run
+   ./src/AlarmSystem_run
    ```
 
 * Run the Project Test:
 
    ```sh
-   ./tst/ExampleProject_test
+   ./tst/AlarmSystem_test
    ```
 
 
