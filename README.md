@@ -60,7 +60,7 @@ ${Alarm_Management}
 
 ### Requirements
 
-* Linux
+* Linux/MacOS
 * **CMake >= 3.12**: https://cmake.org/download/
 
 ### To Compile on Linux
