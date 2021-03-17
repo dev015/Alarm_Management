@@ -21,16 +21,6 @@ The application output:
 Unit Testing:
 * Google Test is used for unit testing.
 
-<!--
-### Built With
-
-This section should list any major frameworks that you built your project using. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
-* [Bootstrap](https://getbootstrap.com)
-* [JQuery](https://jquery.com)
-* [Laravel](https://laravel.com)
-
--->
-
 <!-- GETTING STARTED -->
 ## Getting Started
 
@@ -73,22 +63,20 @@ ${Alarm_Management}
 
 
    ```sh
-   cd build
-   cmake ..
-   make all
+   ./build.sh
    ```
 3. You now have two executable files.
 
-* Run the Project:
+   * Run the Project:
 
    ```sh
-   ./src/AlarmSystem_run
+   ./AlarmSystem_run
    ```
 
-* Run the Project Test:
+   * Run the Project Test:
 
    ```sh
-   ./tst/AlarmSystem_test
+   ./AlarmSystem_test
    ```
 
 
