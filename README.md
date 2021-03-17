@@ -53,7 +53,7 @@ ${Alarm_Management}
 * Linux/MacOS
 * **CMake >= 3.12**: https://cmake.org/download/
 
-### To Compile on Linux
+### To Compile on Linux/MacOS
 
 1. Clone the repo
    ```sh
